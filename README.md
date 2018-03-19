@@ -1,2 +1,8 @@
 # hello-world
-My first repository at github
+
+Hello World,
+
+here is Xirui Yang from Oracle Germany. 
+
+Cheers,
+Xirui
